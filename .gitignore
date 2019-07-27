@@ -1,4 +1,7 @@
 venv
 *.pyc
-.DS_Store
+staticfiles
 .env
+db.sqlite3
+getting-started/*
+.DS_Store
